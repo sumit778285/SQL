@@ -6,6 +6,7 @@ leetcode and hackerrank
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/sumit778285/SQL/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/sumit778285/SQL/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/sumit778285/SQL/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/sumit778285/SQL/tree/master/0585-investments-in-2016) |
