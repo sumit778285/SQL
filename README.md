@@ -14,4 +14,12 @@ leetcode and hackerrank
 | [1278-product-price-at-a-given-date](https://github.com/sumit778285/SQL/tree/master/1278-product-price-at-a-given-date) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sumit778285/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/sumit778285/SQL/tree/master/2057-count-salary-categories) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumit778285/SQL/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumit778285/SQL/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
