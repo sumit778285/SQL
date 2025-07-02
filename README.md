@@ -1,5 +1,5 @@
 # SQL
-leetcode and hackerrank
+leetcode questions in java
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
