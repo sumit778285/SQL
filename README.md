@@ -22,4 +22,8 @@ leetcode and hackerrank
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumit778285/SQL/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sumit778285/SQL/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
